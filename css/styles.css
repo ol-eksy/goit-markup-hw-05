@@ -437,7 +437,7 @@ body {
 }
 
 .link-footer:hover,
-.link-footer:focus .link-footer .contacts-icon {
+.link-footer:focus  {
   background-color: var(--accent-color);
 }
 
