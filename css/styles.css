@@ -296,8 +296,7 @@ body {
   background-color: rgba(33, 150, 243, 0.9);
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.pf-link:hover,
-.pf-link:focus .overlay {
+.pf-link:hover .overlay {
   transform: translateY(0);
 }
 .text-primary {
